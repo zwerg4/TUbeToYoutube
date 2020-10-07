@@ -6,6 +6,8 @@ client_secret.json
 *.mp4
 *.pickle
 
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
