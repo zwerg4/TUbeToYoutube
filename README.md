@@ -48,4 +48,11 @@
  
  **If you have some things you want to see in this script, contact me or open new issue**
 
+## Useful Youtube Shortcuts
+ ,  = go backward by one frame
+ 
+ .  = go forward by one frame
+ 
+SHIFT + , = slow down video by 25%
 
+SHIFT + . = speed up video by 25%
