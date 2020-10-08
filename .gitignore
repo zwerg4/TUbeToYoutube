@@ -8,6 +8,8 @@ client_secret.json
 
 .idea
 
+*.storage
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
